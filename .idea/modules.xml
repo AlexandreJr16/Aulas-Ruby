@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AulasRuby.iml" filepath="$PROJECT_DIR$/.idea/AulasRuby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CPF.iml" filepath="$PROJECT_DIR$/.idea/modules/CPF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CPF_CNPJ.iml" filepath="$PROJECT_DIR$/.idea/modules/CPF_CNPJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pokemon.iml" filepath="$PROJECT_DIR$/.idea/modules/Pokemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Project.iml" filepath="$PROJECT_DIR$/.idea/modules/Project.iml" />
+    </modules>
+  </component>
+</project>

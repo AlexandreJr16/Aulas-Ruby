@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    os (1.1.4)
+    pokemon (0.1.2)
+      thor
+    thor (1.2.2)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  os
+  pokemon
+
+BUNDLED WITH
+   2.4.17
